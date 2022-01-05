@@ -34,3 +34,5 @@ DiabetesPedigreeFunction: Diabetes pedigree function
 Age: Age (years)
 
 Outcome: Class variable (0 or 1) where 0 represent 'the person is not diabetes' and 1 represent 'The person is diabetes '
+
+## Launch 
