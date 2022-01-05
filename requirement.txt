@@ -1,3 +1,6 @@
+Download and Install Python 3.8 or earlier
+Anaconda Environment 
+
 ** Install Dependencies **
 
 import numpy as np
@@ -7,4 +10,8 @@ from sklearn.model_selection import train_test_split
 from sklearn import svm
 from sklearn.metrics import accuracy_score 
 
-<a> Install</a>
+** For Deploying Install ** 
+
+import numpy as np
+import pickle             # for loading Saved Model
+import streamlit as st    # for creating the web page
