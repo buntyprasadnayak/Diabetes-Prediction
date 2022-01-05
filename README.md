@@ -35,4 +35,9 @@ Age: Age (years)
 
 Outcome: Class variable (0 or 1) where 0 represent 'the person is not diabetes' and 1 represent 'The person is diabetes '
 
-## Launch 
+## How to Launch 
+Make sure all the files are in the same folder and install all the dependencies 
+Install streamlit to your folder 
+pip install streamlit
+Run the Launch command
+streamlit run " 'your folder Location'/Diabetes Prediction Web App.py"
