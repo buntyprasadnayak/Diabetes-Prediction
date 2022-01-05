@@ -44,4 +44,4 @@ pip install streamlit
 Run the Launch command
 ```
 streamlit run " 'your folder Location'/Diabetes Prediction Web App.py"
-``
+
