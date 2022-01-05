@@ -6,7 +6,7 @@ The requirements.txt file has listed all Python libraries that your notebooks de
 
 pip install -r requirements.txt
 
-##Work Flow of this project is 
+## Work Flow of this project is 
 
 1. We Analysis the Diabetes Data 
 2. Some pre-processing with the data 
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 7. Prediction
 
 
-##Technologies
+## Technologies
 1. Anaconda 
 2. Pycharm
 3. Google Colab 
