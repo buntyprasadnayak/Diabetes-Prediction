@@ -42,7 +42,7 @@ Install streamlit to your folder
 pip install streamlit
 ```
 
-**Change to current Path of the loaded_model variable in  "Predictive System.py" and "Diabetes Prediction Web App.py" file 
+**Change to current Path of the loaded_model variable in  "Predictive System.py" and "Diabetes Prediction Web App.py" file **
 
 Run the Launch command
 ```
