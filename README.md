@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Technologies
 1. Anaconda 
-2. Pycharm
+2. Pycharm or Spyder 
 3. Google Colab 
 
 
