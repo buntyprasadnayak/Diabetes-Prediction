@@ -37,12 +37,14 @@ Outcome: Class variable (0 or 1) where 0 represent 'the person is not diabetes' 
 
 ## How to Launch 
 Make sure all the files are in the same folder and install all the dependencies 
+
+
 Install streamlit to your folder 
 ```
 pip install streamlit
 ```
 
-**Change to current Path of the loaded_model variable in  "Predictive System.py" and "Diabetes Prediction Web App.py" file **
+**Change to current Path of the loaded_model variable in **  "Predictive System.py" and "Diabetes Prediction Web App.py" file **
 
 Run the Launch command
 ```
