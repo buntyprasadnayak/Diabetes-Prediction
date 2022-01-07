@@ -1,13 +1,2 @@
-
-
-import numpy as np
-import pandas as pd
-from sklearn.preprocessing import StandardScaler 
-from sklearn.model_selection import train_test_split
-from sklearn import svm
-from sklearn.metrics import accuracy_score 
-
-
-import numpy as np
-import pickle             # for loading Saved Model
-import streamlit as st    # for creating the web page
+numpy==1.19.1
+streamlit==1.3.1
