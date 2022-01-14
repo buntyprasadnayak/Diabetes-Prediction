@@ -9,7 +9,7 @@ import numpy as np
 import pickle  
 
 #loading the saved Model
-loaded_model = pickle.load(open('/Users/bunty/VS Code/MachineLearning/Deploy ML Model/trained_model.sav', 'rb')) 
+loaded_model = pickle.load(open('./trained_model.sav', 'rb')) 
 
 
 input_data = (5,166,72,19,175,25.8,0.587,51)
