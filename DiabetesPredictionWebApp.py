@@ -12,7 +12,7 @@ import streamlit as st   # for creating the web page
 
 
 #loading the saved Model
-loaded_model = pickle.load(open('/Users/bunty/VS Code/MachineLearning/Deploy ML Model/trained_model.sav', 'rb')) 
+loaded_model = pickle.load(open('./trained_model.sav', 'rb')) 
 
 
 # creating a function for Prediction
